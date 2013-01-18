@@ -2,6 +2,10 @@ BSP-Tree Demonstration
 ======================
 Just a Demonstration shows how BSP-Tree works in visualization.
 
+Start
+=====
+download the BSPTree.jar and open it.
+
 Control
 =======
 * mouse left - drag to draw.
