@@ -1,6 +1,8 @@
 BSP-Tree Demonstration
 ======================
-Just a Demonstration shows how BSP-Tree works in visualization.
+Just a demonstration shows how BSP-Tree works in visualization.
+
+![bsp](http://farm4.staticflickr.com/3438/3860587901_0094bfb9d7.jpg)
 
 Start
 =====
